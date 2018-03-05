@@ -2,4 +2,10 @@
     <string name="app_name">SmartCity</string>
     <string name="title_home">Accueil</string>
     <string name="profile">Mon compte</string>
+    <string name="title_activity_burger_menu">BurgerMenu</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
 </resources>
